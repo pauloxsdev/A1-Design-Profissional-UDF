@@ -24,9 +24,9 @@ Este repositório centraliza todas as evidências práticas exigidas para a **Av
 
 | Disciplina | Temas Principais | Repositório |
 | :--- | :--- | :---: |
-| **Algoritmos e Pensamento Computacional** | Lógica e Estruturas | [🔗 Acessar](./Repositorios_1Semestre/Algoritmos) |
-| **Modelagem de Banco De Dados** | SQL, MER e DER | [🔗 Acessar](./Repositorios_1Semestre/Modelagem_BD) |
-| **Desenvolvimento Front-End** | HTML, CSS e JS | [🔗 Acessar](./Repositorios_1Semestre/FrontEnd) |
+| **Algoritmos e Pensamento Computacional** | Lógica e Estruturas | [🔗 Acessar](https://github.com/pauloxsdev/DesignProfissional_A1/tree/main/Repositorios_1Semestre/Algoritmos%20e%20Pensamento%20Computacional) |
+| **Modelagem de Banco De Dados** | SQL, MER e DER | [🔗 Acessar](https://github.com/pauloxsdev/DesignProfissional_A1/tree/main/Repositorios_1Semestre/Modelagem%20de%20Banco%20de%20Dados) |
+| **Desenvolvimento Front-End** | HTML, CSS e JS | [🔗 Acessar](https://github.com/pauloxsdev/DesignProfissional_A1/tree/main/Repositorios_1Semestre/Desenvolvimento%20Front-End%20para%20Web) |
 
 ---
 *Avaliação A1 - Design Profissional*
