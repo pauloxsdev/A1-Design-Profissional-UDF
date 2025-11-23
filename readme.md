@@ -15,8 +15,8 @@ Este repositório centraliza todas as evidências práticas exigidas para a **Av
 | :--- | :--- | :---: |
 | **1. Processo Seletivo** | Comprovante de candidatura (TI) | [📄 Ver Arquivo](./Relato_Processo_Seletivo.pdf) |
 | **2. Evento** | Certificado de participação | [📜 Ver Arquivo](./Certificado_Evento.pdf) |
-| **3. Currículo** | Formato LaTeX / Lattes | [🎓 Ver Currículo](./Curriculo_Latex.pdf) |
-| **4. Portfólio** | Apresentação e projetos | [📂 Acessar Folder](./Portfolio/README.md) |
+| **3. Currículo** | Formato Lattes | [🎓 Ver Currículo](https://github.com/pauloxsdev/DesignProfissional_A1/blob/main/Curr%C3%ADculo_Lattes.pdf) |
+| **4. Portfólio** | Apresentação e projetos | [📂 Ver Portfólio](https://github.com/pauloxsdev/DesignProfissional_A1/tree/main/portfolio) |
 
 ---
 
